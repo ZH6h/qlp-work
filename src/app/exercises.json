@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "title": "智能问答系统",
+    "description": "基于QAnything技术的智能问答平台，通过iframe技术实现第三方服务无缝集成，提供流畅的用户体验。",
+    "link": "/practice/embed-demo",
+    "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["AI集成", "React", "前端集成"]
+  },
+  {
+    "id": 2,
+    "title": "响应式Web应用",
+    "description": "采用React框架构建的现代化单页应用，展示组件化开发和响应式设计的最佳实践。",
+    "link": "/practice/my-app",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90bo1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["React", "响应式设计", "SPA"]
+  },
+  {
+    "id": 3,
+    "title": "现代UI组件库",
+    "description": "基于CSS3的现代化UI组件系统，包含选择器优化和动画效果，提升用户界面体验。",
+    "link": "/practice/03-css-01",
+    "imageUrl": "https://images.unsplash.com/photo-1509343256512-d77a5cb3791b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["CSS3", "UI设计", "组件库"]
+  },
+  {
+    "id": 4,
+    "title": "自适应布局系统",
+    "description": "深度运用CSS盒模型和Flexbox技术，构建高度灵活的响应式布局框架。",
+    "link": "/practice/03-css-02",
+    "imageUrl": "https://images.unsplash.com/photo-1522252234503-e356532cafd5?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["CSS Grid", "Flexbox", "响应式"]
+  },
+  {
+    "id": 5,
+    "title": "动态交互界面",
+    "description": "运用高级CSS定位和浮动技术，实现复杂的页面布局和视觉效果。",
+    "link": "/practice/04-css-01",
+    "imageUrl": "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["CSS动画", "交互设计", "UI/UX"]
+  },
+  {
+    "id": 6,
+    "title": "精准定位系统",
+    "description": "利用CSS相对定位和绝对定位技术，实现像素级精确的页面元素控制。",
+    "link": "/practice/04-css-02",
+    "imageUrl": "https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["CSS定位", "布局技术", "前端优化"]
+  },
+  {
+    "id": 7,
+    "title": "流体布局引擎",
+    "description": "深度应用相对定位技术，构建自适应的流体布局系统，适配多种设备尺寸。",
+    "link": "/practice/04-css-02-relative",
+    "imageUrl": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["流体布局", "移动优先", "跨设备"]
+  },
+  {
+    "id": 8,
+    "title": "新闻门户平台",
+    "description": "使用语义化HTML和现代CSS技术构建的新闻资讯平台，注重SEO优化和可访问性。",
+    "link": "/practice/05-news01",
+    "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["内容管理", "SEO优化", "可访问性"]
+  },
+  {
+    "id": 9,
+    "title": "交互式新闻应用",
+    "description": "集成JavaScript交互功能的新闻应用，提供动态内容加载和用户个性化体验。",
+    "link": "/practice/06-news01",
+    "imageUrl": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["JavaScript", "动态交互", "用户体验"]
+  },
+  {
+    "id": 10,
+    "title": "媒体内容管理系统",
+    "description": "功能完整的内容管理平台，支持复杂布局设计和高级脚本功能。",
+    "link": "/practice/06-news02",
+    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["CMS", "内容管理", "后台系统"]
+  },
+  {
+    "id": 11,
+    "title": "异步数据处理平台",
+    "description": "运用Promise和async/await技术构建的高性能异步数据处理系统。",
+    "link": "/practice/07-async-01",
+    "imageUrl": "https://images.unsplash.com/photo-1579403124614-197f69d8187b?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["异步编程", "性能优化", "JavaScript ES6+"]
+  },
+  {
+    "id": 12,
+    "title": "API数据集成服务",
+    "description": "基于Fetch API的数据获取和处理服务，实现前后端数据的无缝对接。",
+    "link": "/practice/07-async-02",
+    "imageUrl": "https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["API集成", "数据处理", "RESTful"]
+  },
+  {
+    "id": 13,
+    "title": "经典Web首页",
+    "description": "采用纯HTML构建的经典网站首页，展示扎实的前端基础技能和语义化标记。",
+    "link": "/practice/index",
+    "imageUrl": "https://images.unsplash.com/photo-1551650975-87deedd944c3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tags": ["HTML5", "语义化", "Web标准"]
+  }
+] 
